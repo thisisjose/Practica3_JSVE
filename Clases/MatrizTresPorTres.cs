@@ -26,6 +26,7 @@ namespace Practica3_JSVE.Clases
 
 
         //En el ejercicio 2 fué basicamente reutiliar el codigo anterior solo cambiarle el valor a la fila y a la columna y volver la matriz un string para ponerle los colores.
+        //PD: Así fué con los demas y basandome con el powerpoint.
         public void Ejercicio2()
         {
             string [,] matriz2 = { { "Rojo", "Verde" }, { "Azul", "Amarillo " } };
