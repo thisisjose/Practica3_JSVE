@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Practica3_JSVE", "Practica3_JSVE.csproj", "{EC3364BE-D3D5-4248-8978-1C6356992762}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC3364BE-D3D5-4248-8978-1C6356992762}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC3364BE-D3D5-4248-8978-1C6356992762}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC3364BE-D3D5-4248-8978-1C6356992762}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC3364BE-D3D5-4248-8978-1C6356992762}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F619C893-8EE1-42E8-A1FB-6DEF30AD6868}
+	EndGlobalSection
+EndGlobal
